@@ -1,4 +1,4 @@
-## ETL for Telecom Company Project 
+# ETL for Telecom Company Project 
 ## Overview
 
 ### **Objective:** Periodically save CSV files with transaction data, handle rejected records, ensure data quality during registration, and organize stored files.
